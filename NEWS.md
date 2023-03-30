@@ -1,5 +1,10 @@
-## Changes in 3.0.3 (unreleased)
+## Changes in 3.0.3
 
+* PR 701 from matthijskooijman/make-scripts-executable
+* PR 715 from fgrosse/fix-python-3-11
+* PR 709 from milotype/croatian-translation-20220806
+* PR 699 from GeraldJansen/fix-time-activity-overlap
+* PR 685 from tchernobog/master
 * A number changes to the overview screen:
   - Add daily total rows. (PR 596)
   - Remove lines previously shown for days without activity. (PR 650)
